@@ -5,4 +5,4 @@ javaで作った感情解析プログラム
 
 kannjouwo 
 fuyasutokiha 
-src/EmotionAnalyzerのTypesをみて空気を読んで増やすと増えます
+src/EmotionAnalyzerのTypesをみて空気を読んで増やすと増えますです
