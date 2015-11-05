@@ -2,3 +2,7 @@
 javaで作った感情解析プログラム
 
 感情のライブラリーはテキストファイルなので書き換えると新しい感情を増やし解析できます。
+
+kannjouwo 
+fuyasutokiha 
+src/EmotionAnalyzerのTypesをみて空気を読んで増やすと増えます
